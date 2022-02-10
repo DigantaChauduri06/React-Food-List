@@ -1,0 +1,50 @@
+.food-list-component {
+  text-align: center;
+  background-color: #242b2e;
+  color: #ffff;
+}
+.header {
+  color: #ffffff;
+  text-shadow: -4px 0px 11px rgba(151, 150, 150, 0.57);
+}
+.btn {
+  width: 250px;
+  height: 60px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 10px 10px 5px 135px rgba(0, 0, 0, 0.61) inset;
+  -webkit-box-shadow: 10px 10px 5px 135px rgba(0, 0, 0, 0.671) inset;
+  color: #ffffff;
+  margin-top: 60px;
+}
+
+.food-name {
+  font-size: 100px;
+}
+.items {
+  height: auto;
+}
+.banner {
+  padding: 90px;
+}
+.banner > h4 {
+  font-size: 26px;
+}
+.price-tag {
+  font-family: cursive;
+}
+.random-food {
+  width: 250px;
+  height: 60px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 10px 10px 5px 135px rgba(13, 224, 224, 0.61) inset;
+  -webkit-box-shadow: 10px 10px 5px 135px rgba(30, 156, 214, 0.671) inset;
+  color: #ffffff;
+  margin-top: 60px;
+  margin: 10px;
+}
